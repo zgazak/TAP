@@ -1,0 +1,13 @@
+
+v2.40:
+--added advanced parameterization b^2, T
+--added additional LD parameterization
+
+v2.50: 
+--added advanced delta_light parameter (from johnson+ 2011ApJ...730...79J equation 9)
+
+v2.51  Oct 3 2013 
+--fixed advanced parameterization.... b^2->b
+--added likelihood tracking and outputting to mcmc chain files1
+
+
